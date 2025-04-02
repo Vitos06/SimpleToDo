@@ -1,0 +1,5 @@
+{
+    "data_file": "spr/config.json",
+    "max_tasks": 50,
+    "default_language": "ru"
+}
