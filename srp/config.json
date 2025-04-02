@@ -1,5 +1,5 @@
 {
-    "data_file": "spr/config.json",
+    "data_file": "spr/todo.json",
     "max_tasks": 50,
     "default_language": "ru"
 }
